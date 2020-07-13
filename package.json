@@ -10,7 +10,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
-  "homepage": "https://radmirshkred.github.io/star-db-bura/",
+  "homepage": "https://radmirshkred.github.io/star-db-bura",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
